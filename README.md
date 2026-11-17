@@ -1,2 +1,2 @@
-# 1st-Rep
-First repository
+print(5+5)
+
